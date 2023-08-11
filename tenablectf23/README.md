@@ -14,8 +14,8 @@
 
 ## web
 
-[Cat Viewer](web/cat_viewer/README.md)\
+[Cat Viewer](web/cat_viewer/README.md)
 
 ## misc
 
-[OneShotGPT](misc/one_shot_gpt/README.md)\
+[OneShotGPT](misc/one_shot_gpt/README.md)
