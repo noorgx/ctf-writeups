@@ -3,6 +3,9 @@
 * * *
 ![image](https://github.com/MasonCompetitiveCyber/PatriotCTF2023/assets/101006959/3892c5b6-2ed8-47d5-a895-454caf8a3687)
 * * * 
+# The Orignal Write up
+
+https://medium.com/@noorossamazakaria/patriotctf2023-8c4f97bfae23
 
 ## Crypto:
 - [Breakfast Club](Crypto/Breakfast%20Club) - Author: Meat Ball
